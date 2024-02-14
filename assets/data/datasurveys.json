@@ -1,0 +1,80 @@
+{
+    "pageNumber": 1,
+    "pageSize": 111,
+    "numberOfElements": 12,
+    "totalElements": 12,
+    "content": [
+        {
+            "idencuesta": 1,
+            "titulo": "List item primary title",
+            "subtitulo": "Lorem ipsum dolor sit amet, consectetur. Lorem ipsum dolor",
+            "estado": 1
+        },
+        {
+            "idencuesta": 2,
+            "titulo": "List item title",
+            "subtitulo": "Lorem ipsum  sit amet. amet, consectetur.",
+            "estado": 1
+        },
+        {
+            "idencuesta": 3,
+            "titulo": "item primary title",
+            "subtitulo": "ipsum dolor sit amet, consectetur.",
+            "estado": 3
+        },
+        {
+            "idencuesta": 4,
+            "titulo": "primary title",
+            "subtitulo": "Lorem ipsum dolor sit, consectetur. dolor sit amet",
+            "estado": 1
+        },
+        {
+            "idencuesta": 5,
+            "titulo": "List title",
+            "subtitulo": "Lorem ipsum dolor amet, consectetur.",
+            "estado": 2
+        },
+        {
+            "idencuesta": 6,
+            "titulo": "List item primary",
+            "subtitulo": "ipsum dolor amet, consectetur.",
+            "estado": 2
+        },
+        {
+            "idencuesta": 1,
+            "titulo": "List item",
+            "subtitulo": "Lorem ipsum dolor sit amet, consectetur. Lorem ipsum dolor",
+            "estado": 1
+        },
+        {
+            "idencuesta": 2,
+            "titulo": "primary title",
+            "subtitulo": "Lorem ipsum  sit amet. amet, consectetur.",
+            "estado": 1
+        },
+        {
+            "idencuesta": 3,
+            "titulo": "List primary",
+            "subtitulo": "ipsum dolor sit amet, consectetur.",
+            "estado": 3
+        },
+        {
+            "idencuesta": 4,
+            "titulo": "item title",
+            "subtitulo": "Lorem ipsum dolor sit, consectetur. dolor sit amet",
+            "estado": 1
+        },
+        {
+            "idencuesta": 5,
+            "titulo": "List List",
+            "subtitulo": "Lorem ipsum dolor amet, consectetur.",
+            "estado": 2
+        },
+        {
+            "idencuesta": 6,
+            "titulo": "List item primary title",
+            "subtitulo": "ipsum dolor amet, consectetur.",
+            "estado": 2
+        }
+    ]
+}

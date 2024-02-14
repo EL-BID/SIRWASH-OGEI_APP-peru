@@ -1,0 +1,32 @@
+{
+    "pageNumber": 1,
+    "pageSize": 111,
+    "numberOfElements": 4,
+    "totalElements": 4,
+    "content": [
+        {
+            "idtipoencuesta": 1002,
+            "titulo": "Medición de Cloro Residual",
+            "subtitulo": "Lorem ipsum dolor sit amet, elit. Ut vel vehicula turpis consectetur adipiscing.",
+            "imagen": "assets/img/medicion.png"
+        },
+        {
+            "idtipoencuesta": 1003,
+            "titulo": "Limpieza y Desinfección de componentes del SAP",
+            "subtitulo": "Lorem amet, consectetur elit. Ut vel vehicula adipiscing ipsum dolor sit turpis.",
+            "imagen": "assets/img/limpieza.png"
+        },
+        {
+            "idtipoencuesta": 1004,
+            "titulo": "Continuidad de Servicio",
+            "subtitulo": "Lorem ipsum, consectetur adipiscing dolor sit amet elit. Ut vel vehicula turpis.",
+            "imagen": "assets/img/continuidad.png"
+        },
+        {
+            "idtipoencuesta": 1005,
+            "titulo": "Cloración",
+            "subtitulo": "Lorem ipsum dolor sit amet, turpis consectetur elit. Ut vel adipiscing vehicula.",
+            "imagen": "assets/img/potabilizacion.png"
+        }
+    ]
+}
