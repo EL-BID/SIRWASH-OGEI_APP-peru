@@ -1,0 +1,2 @@
+/Users/jeseniarodriguezparedes/Documents/GitHub/SIRWASH-OGEI_APP-peru/extra/peru.map filter=lfs diff=lfs merge=lfs -text
+*.map filter=lfs diff=lfs merge=lfs -text
